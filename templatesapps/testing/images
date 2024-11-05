@@ -1,0 +1,103 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 1,
+            "name": "dummyimag1",
+            "image_url": "https://greedyx.com/appfiles/githubrepos/my-personal/Tempt/Sep7t/2.jpg",
+            "author": "admin",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "dummycatgeory1",
+                    "description": "dumy 1",
+                    "image": "http://127.0.0.1:8000/media/categories/Online_Gantt_20240425.png",
+                    "created_at": "2024-10-02T18:53:27.843007Z",
+                    "updated_at": "2024-10-02T18:53:27.843136Z"
+                }
+            ],
+            "tags": "dummy, nice",
+            "description": null,
+            "date_created": "2024-10-02T18:54:02.121716Z",
+            "date_modified": "2024-10-02T18:54:23.564091Z"
+        },
+        {
+            "id": 2,
+            "name": "hello",
+            "image_url": "https://greedyx.com/appfiles/githubrepos/my-personal/Tempt/Sep7t/2.jpg",
+            "author": "dsddd",
+            "categories": [
+                {
+                    "id": 2,
+                    "name": "dummy2catgeory",
+                    "description": "dummy2catgeory",
+                    "image": "http://127.0.0.1:8000/media/categories/Online_Gantt_20240425_OwdDwni.png",
+                    "created_at": "2024-10-02T18:55:00.635606Z",
+                    "updated_at": "2024-10-02T18:55:00.635802Z"
+                }
+            ],
+            "tags": "hello, hai",
+            "description": null,
+            "date_created": "2024-10-02T18:55:11.129544Z",
+            "date_modified": "2024-10-02T18:55:11.129985Z"
+        },
+        {
+            "id": 3,
+            "name": "dddd",
+            "image_url": "https://greedyx.com/appfiles/githubrepos/my-personal/Tempt/Sep7t/2.jpg",
+            "author": "dfddf",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "dummycatgeory1",
+                    "description": "dumy 1",
+                    "image": "http://127.0.0.1:8000/media/categories/Online_Gantt_20240425.png",
+                    "created_at": "2024-10-02T18:53:27.843007Z",
+                    "updated_at": "2024-10-02T18:53:27.843136Z"
+                },
+                {
+                    "id": 2,
+                    "name": "dummy2catgeory",
+                    "description": "dummy2catgeory",
+                    "image": "http://127.0.0.1:8000/media/categories/Online_Gantt_20240425_OwdDwni.png",
+                    "created_at": "2024-10-02T18:55:00.635606Z",
+                    "updated_at": "2024-10-02T18:55:00.635802Z"
+                }
+            ],
+            "tags": "jihs",
+            "description": null,
+            "date_created": "2024-10-02T18:55:40.362710Z",
+            "date_modified": "2024-10-02T18:55:40.362756Z"
+        },
+        {
+            "id": 4,
+            "name": "dubai seenu 1st meme",
+            "image_url": "https://greedyx.com/appfiles/githubrepos/my-personal/Tempt/Sep7t/2.jpg",
+            "author": "admin",
+            "categories": [
+                {
+                    "id": 3,
+                    "name": "dubai seenu",
+                    "description": "mobie",
+                    "image": "http://127.0.0.1:8000/media/categories/Online_Gantt_20240414_1.png",
+                    "created_at": "2024-10-02T19:07:59.441273Z",
+                    "updated_at": "2024-10-02T19:07:59.441348Z"
+                },
+                {
+                    "id": 4,
+                    "name": "ravi",
+                    "description": "ssss",
+                    "image": "https://greedyx.com/appfiles/githubrepos/my-personal/Tempt/Sep7t/2.jpg",
+                    "created_at": "2024-10-02T19:09:30.173815Z",
+                    "updated_at": "2024-10-02T19:09:30.173950Z"
+                }
+            ],
+            "tags": "action, tasdds",
+            "description": "q",
+            "date_created": "2024-10-02T19:09:58.861296Z",
+            "date_modified": "2024-10-03T13:45:54.984642Z"
+        }
+    ]
+}

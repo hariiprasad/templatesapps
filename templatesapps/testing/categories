@@ -1,0 +1,39 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 1,
+            "name": "dummycatgeory1",
+            "description": "dumy 1",
+            "image": "https://greedyx.com/appfiles/githubrepos/my-personal/Tempt/Sep7t/16.jpg",
+            "created_at": "2024-10-02T18:53:27.843007Z",
+            "updated_at": "2024-10-02T18:53:27.843136Z"
+        },
+        {
+            "id": 2,
+            "name": "dummy2catgeory",
+            "description": "dummy2catgeory",
+            "image": "https://greedyx.com/appfiles/githubrepos/my-personal/Tempt/Sep7t/16.jpg",
+            "created_at": "2024-10-02T18:55:00.635606Z",
+            "updated_at": "2024-10-02T18:55:00.635802Z"
+        },
+        {
+            "id": 3,
+            "name": "dubai seenu",
+            "description": "mobie",
+            "image": "https://greedyx.com/appfiles/githubrepos/my-personal/Tempt/Sep7t/16.jpg",
+            "created_at": "2024-10-02T19:07:59.441273Z",
+            "updated_at": "2024-10-02T19:07:59.441348Z"
+        },
+        {
+            "id": 4,
+            "name": "ravi",
+            "description": "ssss",
+            "image": "https://greedyx.com/appfiles/githubrepos/my-personal/Tempt/Sep7t/16.jpg",
+            "created_at": "2024-10-02T19:09:30.173815Z",
+            "updated_at": "2024-10-02T19:09:30.173950Z"
+        }
+    ]
+}

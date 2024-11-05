@@ -1,0 +1,74 @@
+{
+  "code": "200",
+  "message": "",
+  "values": [
+    {
+      "name": "update",
+      "value": "App on update"
+    },
+    {
+      "name": "ADMIN_APP_ID",
+      "value": "ca-app-pub-2338696600763908~9772534115"
+    },
+    {
+      "name": "ADMIN_PUBLISHER_ID",
+      "value": "pub-2338696600763908"
+    },
+    {
+      "name": "ADMIN_REWARDED_ADMOB_ID",
+      "value": "ca-app-pub-2338696600763908/5405015550"
+    },
+    {
+      "name": "ADMIN_INTERSTITIAL_ADMOB_ID",
+      "value": "ca-app-pub-2338696600763908/5641717419"
+    },
+    {
+      "name": "ADMIN_NATIVE_BANNER_FACEBOOK_ID",
+      "value": "2844777579113179_2844785665779037"
+    },
+    {
+      "name": "ADMIN_INTERSTITIAL_FACEBOOK_ID",
+      "value": "2844777579113179_2844779449112992"
+    },
+    {
+      "name": "ADMIN_INTERSTITIAL_TYPE",
+      "value": "ADMOB"
+    },
+    {
+      "name": "ADMIN_INTERSTITIAL_CLICKS",
+      "value": 3
+    },
+    {
+      "name": "ADMIN_BANNER_ADMOB_ID",
+      "value": "ca-app-pub-2338696600763908/9580962425"
+    },
+    {
+      "name": "ADMIN_BANNER_FACEBOOK_ID",
+      "value": "1043091209405155_1043108066070136"
+    },
+    {
+      "name": "ADMIN_BANNER_TYPE",
+      "value": "ADMOB"
+    },
+    {
+      "name": "ADMIN_NATIVE_FACEBOOK_ID",
+      "value": "2844777579113179_2844784695779134"
+    },
+    {
+      "name": "ADMIN_NATIVE_ADMOB_ID",
+      "value": "ca-app-pub-2338696600763908/9612400679"
+    },
+    {
+      "name": "ADMIN_NATIVE_LINES",
+      "value": 6
+    },
+    {
+      "name": "ADMIN_NATIVE_TYPE",
+      "value": "ADMOB"
+    },
+    {
+      "name": "EARNING_SYSTEM",
+      "value": "TRUE"
+    }
+  ]
+}
